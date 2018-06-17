@@ -1,0 +1,2 @@
+webpackJsonp([85359869810760],{323:function(e,o){e.exports={data:{markdownRemark:{id:"/home/julia/Pulpit/recipe/cook-book/recipe/pierogi-recipe.md absPath of file >>> MarkdownRemark",frontmatter:{title:"Pierogi recipe",path:"pierogi",date:"2018-06-11",photo:"https://image.freepik.com/free-photo/chinese-jiaozi-new-year-food_1205-3342.jpg",recipe:"lorem ipsum"}}},pathContext:{id:"/home/julia/Pulpit/recipe/cook-book/recipe/pierogi-recipe.md absPath of file >>> MarkdownRemark"}}}});
+//# sourceMappingURL=path---pierogi-9608dbb4860c25fca66e.js.map

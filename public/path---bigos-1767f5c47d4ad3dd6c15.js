@@ -1,0 +1,2 @@
+webpackJsonp([0xb173b80ace47],{321:function(e,o){e.exports={data:{markdownRemark:{id:"/home/julia/Pulpit/recipe/cook-book/recipe/bigos.MD absPath of file >>> MarkdownRemark",frontmatter:{title:"smaczny",path:"bigos",date:"2018-05-09",photo:"https://image.freepik.com/free-photo/cabbage-on-burlap-background_1401-415.jpg",recipe:"lorem ipsum lorem lorem ipsum"}}},pathContext:{id:"/home/julia/Pulpit/recipe/cook-book/recipe/bigos.MD absPath of file >>> MarkdownRemark"}}}});
+//# sourceMappingURL=path---bigos-1767f5c47d4ad3dd6c15.js.map

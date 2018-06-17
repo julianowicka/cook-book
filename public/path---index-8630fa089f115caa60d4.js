@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{322:function(t,e){t.exports={data:{allMarkdownRemark:{edges:[{node:{frontmatter:{title:"smaczny",path:"bigos"}}},{node:{frontmatter:{title:"Pierogi recipe",path:"pierogi"}}},{node:{frontmatter:{title:"zupa",path:"zupa"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-8630fa089f115caa60d4.js.map

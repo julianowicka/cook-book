@@ -1,0 +1,2 @@
+webpackJsonp([4723669884192],{324:function(e,o){e.exports={data:{markdownRemark:{id:"/home/julia/Pulpit/recipe/cook-book/recipe/smaczna-zupa.md absPath of file >>> MarkdownRemark",frontmatter:{title:"zupa",path:"zupa",date:"2018-06-11",photo:"https://image.freepik.com/free-photo/spoon-and-seeds-near-pumpkin-soup_23-2147753695.jpg",recipe:"lorem lorem lorem"}}},pathContext:{id:"/home/julia/Pulpit/recipe/cook-book/recipe/smaczna-zupa.md absPath of file >>> MarkdownRemark"}}}});
+//# sourceMappingURL=path---zupa-1f12ba18f46fb239b593.js.map

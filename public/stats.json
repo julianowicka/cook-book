@@ -1,0 +1,50 @@
+{
+  "assetsByChunkName": {
+    "path---zupa": [
+      "path---zupa-1f12ba18f46fb239b593.js",
+      "path---zupa-1f12ba18f46fb239b593.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-b7780c116582c56d9eca.js",
+      "component---src-pages-index-js-b7780c116582c56d9eca.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---pierogi": [
+      "path---pierogi-9608dbb4860c25fca66e.js",
+      "path---pierogi-9608dbb4860c25fca66e.js.map"
+    ],
+    "cms": [
+      "cms-dd5cb98c60f37d470b78.js",
+      "cms.css",
+      "cms-dd5cb98c60f37d470b78.js.map",
+      "cms.css.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-dc53648a44eab06543f9.js",
+      "component---src-layouts-index-js-dc53648a44eab06543f9.js.map"
+    ],
+    "path---index": [
+      "path---index-8630fa089f115caa60d4.js",
+      "path---index-8630fa089f115caa60d4.js.map"
+    ],
+    "commons": [
+      "commons-f8262d855657686677bf.js",
+      "commons-f8262d855657686677bf.js.map"
+    ],
+    "component---src-components-templates-md-recipe-js": [
+      "component---src-components-templates-md-recipe-js-5ce8e93c1ddcd9984d34.js",
+      "component---src-components-templates-md-recipe-js-5ce8e93c1ddcd9984d34.js.map"
+    ],
+    "path---bigos": [
+      "path---bigos-1767f5c47d4ad3dd6c15.js",
+      "path---bigos-1767f5c47d4ad3dd6c15.js.map"
+    ],
+    "app": [
+      "app-1f42faf72340adef9ecb.js",
+      "app-1f42faf72340adef9ecb.js.map"
+    ]
+  }
+}
