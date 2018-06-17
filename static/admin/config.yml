@@ -1,0 +1,16 @@
+backend:
+  name: github
+  repo: julianowicka/cook-book
+media_folder: static/assets
+
+collections:
+  - name: recipe
+    label: Recipe
+    folder: recipe
+    create: true
+    fields:
+      - { name: path, label: Path }
+      - { name: date, label: Date, widget: date }
+      - { name: title, label: Title }
+      - { name: photo, label: Photo }
+      - { name: recipe, label: Recipe }
